@@ -149,27 +149,21 @@ Visualizations are built with **Chart.js** or **Plotly**, using a clean **ShadCN
 
 ## 🧱 Folder Structure
 
-Avastrolytics/
-│
-├── backend/          # FastAPI app (Week 4)
-├── frontend/         # React dashboard (Week 5)
-├── db/               # SQL schema, indexes, queries
-│   ├── schema.sql
-│   ├── indexes.sql
-│   └── queries.sql
-│
-├── notebooks/        # Jupyter or Colab notebooks (EDA)
-│   └── week1_exploration.ipynb
-│
-├── docs/             # Documentation & reports
-│   ├── kpis.md
-│   ├── data_quality.md
-│   ├── week1_report.md
-│   └── erd.png
-│
-├── data/             # local dataset copy
-│
-└── README.md         # You’re reading it
+📁 Avastrolytics  
+├─ 📁 backend  
+├─ 📁 frontend  
+├─ 📁 db  
+│  ├─ 📄 schema.sql  
+│  ├─ 📄 indexes.sql  
+│  └─ 📄 queries.sql  
+├─ 📁 notebooks  
+│  └─ 📄 week1_exploration.ipynb  
+├─ 📁 docs  
+│  ├─ 📄 kpis.md  
+│  ├─ 📄 data_quality.md  
+│  ├─ 📄 week1_report.md  
+│  └─ 📄 erd.png  
+└─ 📄 README.md  
 
 ---
 
