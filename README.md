@@ -185,7 +185,7 @@ Visualizations are built with **Chart.js** or **Plotly**, using a clean **ShadCN
 | Role | Name | Focus |
 |------|------|--------|
 | **Astro (Salah)** | Lead Developer / Data Engineer / System Architect | Oversees database design, backend development, infrastructure, and performance optimization. Ensures technical stability and scalability across all layers of the project. |
-| **Avandra (Ikram)** | Lead Data Analyst / Visualization Designer / Co-Architect | Drives the analytical direction of the project — from dataset exploration and cleaning to storytelling through data. Leads the visualization strategy, defines KPIs, builds analytical reports, and ensures that every insight is meaningful and beautifully presented. |
+| **Avandra (Ikram)** | Lead Data Analyst / Visualization Designer / Co-Architect | Drives the analytical direction of the project, from dataset exploration and cleaning to storytelling through data. Leads the visualization strategy, defines KPIs, builds analytical reports, and ensures that every insight is meaningful and beautifully presented. |
 
 
 ## 🧭 Workflow & Communication
